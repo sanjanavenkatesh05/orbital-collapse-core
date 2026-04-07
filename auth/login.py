@@ -1,2 +1,2 @@
 def authenticate():
-    return "[AUTH] AUTH MODULE STABLE"
+    return "[AUTH] Auth OK"
