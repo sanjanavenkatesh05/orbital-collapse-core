@@ -1,2 +1,2 @@
 def parse_signal():
-    return "[TELEMETRY] Signal processing updated"
+    return "[TELEMETRY] Data stream nominal"
